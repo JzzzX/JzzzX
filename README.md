@@ -12,7 +12,7 @@
 
 ### Piedras iOS
 
-米色纸张、深绿文字和复古控件，围绕首页、文件夹、录音笔记、转写阅读与问答展开。保留 2026 年 4 月 9 日、品牌改造前的产品方向。
+米色纸张、深绿文字和复古控件，围绕首页、文件夹、录音笔记、转写阅读与问答展开。当前展示 2026 年 4 月 9 日版本。
 
 <a href="https://github.com/JzzzX/piedras-ios#readme"><img src="https://raw.githubusercontent.com/JzzzX/piedras-ios/main/docs/screenshots/01-home.png" width="240" alt="Piedras iOS 首页与笔记列表"></a>
 <a href="https://github.com/JzzzX/piedras-ios#readme"><img src="https://raw.githubusercontent.com/JzzzX/piedras-ios/main/docs/screenshots/03-note.png" width="240" alt="Piedras iOS 笔记详情"></a>
